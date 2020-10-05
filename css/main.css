@@ -1,0 +1,19 @@
+@import 'normalize.css';
+@import 'grid.css';
+@import 'wrapper.css';
+@import 'heder.css';
+@import 'button.css';
+@import 'footer.css';
+
+
+
+
+
+
+
+font-family: 'DM Serif Display', serif;
+font-family: 'Poppins', sans-serif; 
+font-family: 'PT Serif', serif;
+font-family: 'Rammetto One', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
